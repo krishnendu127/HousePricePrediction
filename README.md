@@ -12,14 +12,6 @@ The project includes the following features:
 - Model training: Utilizing various machine learning algorithms to train the prediction model.
 - Model evaluation: Assessing the performance of the trained models using appropriate metrics.
 
-## Dependencies
-Ensure you have the following dependencies installed:
-- Python (version X.X.X)
-- NumPy (version X.X.X)
-- Pandas (version X.X.X)
-- Scikit-learn (version X.X.X)
-- Matplotlib (version X.X.X)
-- Seaborn (version X.X.X)
 
 ## Dataset
 The project utilizes a dataset containing information about various houses such as square footage, number of bedrooms, location, etc. The dataset is used for training and testing the prediction model.
